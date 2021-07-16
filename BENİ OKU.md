@@ -1,2 +1,1 @@
-# T-rkiyem-mod-aoi.js-bot-alt-yap-s-
-TÜRKİYEM MODUN ALT YAPISIDIR
+Bu türkiyem modun alt yapısıdır çalınması yasaktır hicbir şekilde paylaşıpamaz paylaşıldığı görülürse sunucudan be youtup kanalından banlanır
