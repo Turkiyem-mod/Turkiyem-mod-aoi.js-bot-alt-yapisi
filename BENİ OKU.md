@@ -1,1 +1,1 @@
-Bu türkiyem modun alt yapısıdır çalınması yasaktır hicbir şekilde paylaşıpamaz paylaşıldığı görülürse sunucudan be youtup kanalından banlanır
+Bu türkiyem modun alt yapısıdır çalınması yasaktır hiçbir şekilde paylaşılamaz paylaşıldığı görülürse sunucudan ve youtup kanalından banlanır
